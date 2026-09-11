@@ -1,0 +1,22 @@
+Lista hash 1,lista hash 2,percentuale di sovrapposizione lista 1,percentuale di sovrapposizione lista 2,entry lista 1,entry lista 2
+malcode,malwr,0,0,2402,1794
+malcode,nothink,0,0,2402,327
+malcode,supportclean-mx,0.0137,0.0558,2402,591
+malcode,threatexpert,0.0004,0.0056,2402,180
+malcode,virusshare,0.2956,0.0000,2402,17694718
+malcode,vxvault,0.0058,0.0006,2402,22909
+malwr,nothink,0,0,1794,327
+malwr,supportclean-mx,0,0,1794,591
+malwr,threatexpert,0,0,1794,180
+malwr,virusshare,0.4849,0.0000,1794,17694718
+malwr,vxvault,0.0011,0.0001,1794,22909
+nothink,supportclean-mx,0,0,327,591
+nothink,threatexpert,0,0,327,180
+nothink,virusshare,0.1498,0.0000,327,17694718
+nothink,vxvault,0,0,327,22909
+supportclean-mx,threatexpert,0,0,591,180
+supportclean-mx,virusshare,0.0914,0.0000,591,17694718
+supportclean-mx,vxvault,0.0017,0.0000,591,22909
+threatexpert,virusshare,0.1444,0.0000,180,17694718
+threatexpert,vxvault,0.0222,0.0002,180,22909
+virusshare,vxvault,,,17694718,22909

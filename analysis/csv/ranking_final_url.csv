@@ -1,0 +1,13 @@
+URL FONTE,IP/Domain/URL,Reputazione Iniziale,Valutazione reputazione media,Reputazione Media Lista,% report sul campione VT(#200),FREQ. AGGIORNAMENTO,n ENTRIES,Facilita download,Download aggiorn xml rsync,Credibilita,Risultato,Risultato %
+Zeustracker,URL,NO,1,0.0668,0.9800,7,3,3,SI,7,4.3000,0.2337
+Malc0de,URL,NO,1,,,3,7,1,SI,3,2.5000,0.1359
+http://support.clean-mx.de/clean-mx/viruses,URL,SI,1,0.0607,1,1,7,3,SI,3,2.1000,0.1141
+http://vxvault.siri-urz.net/ViriList.php,URL,NO,1,0.0266,0.7200,3,3,1,SI,3,2.1000,0.1141
+http://malwareurls.joxeankoret.com/normal.txt,URL,NO,1,,,3,3,3,SI,1,2.4000,0.1304
+http://www.malwaredomainlist.com/mdl.php,URL,NO,1,0.0924,0.9950,3,3,1,SI,3,2.1000,0.1141
+http://cybercrime-tracker.net/,URL,NO,1,0.0865,0.9400,3,7,3,SI,3,2.9000,0.1576
+PESI,,,0.2500,,,0.4000,0.1000,0.2000,,0.0500,18.4000
+VOTO,REPUTAZIONE  LISTA,FREQ. AGGIORNAMENTO,n ENTRIES,Facilita download,Affidabilita
+LOW = 1,<40%,settimanale,0-5000,parsing,nessuna notizia
+MEDIUM = 3,40-70%,giornaliera,5000-25000,downolad file,"partner minori, usa virus total"
+HIGH = 7,> 70%,real-time,>25000,API-rsync,partner forti o è uno std usato da altri

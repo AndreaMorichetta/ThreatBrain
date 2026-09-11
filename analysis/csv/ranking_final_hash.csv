@@ -1,0 +1,11 @@
+URL FONTE,Reputazione Iniziale,Valutazione reputazione media,Reputazione Media Lista,% report sul campione VT(#200),FREQ. AGGIORNAMENTO,n ENTRIES,Facilita download,Download aggiorn xml rsync,Credibilita,Risultato,Risultato %
+ZeusTracker,NO,7,0.8205,1,7,3,3,SI,7,5.8000,0.3867
+http://malc0de.com/database/,NO,1,0.3008,0.5650,3,7,1,SI,3,2.5000,0.1667
+http://support.clean-mx.de/clean-mx/viruses.php,SI,1,0.2361,1,1,7,3,SI,3,2.1000,0.1400
+http://www.nothink.org/honeypots/malware_md5_list.txt,NO,1,0,0,3,3,3,SI,3,2.5000,0.1667
+http://www.malwaredomainlist.com/mdl.php,NO,1,0,0,3,3,1,SI,3,2.1000,0.1400
+PESI,,0.2500,,,0.4000,0.1000,0.2000,,0.0500,15
+VOTO,REPUTAZIONE  LISTA,FREQ. AGGIORNAMENTO,n ENTRIES,Facilita download,Affidabilita
+LOW = 1,<40%,settimanale,0-5000,parsing,nessuna notizia
+MEDIUM = 3,40-70%,giornaliera,5000-25000,downolad file,"partner minori, usa virus total"
+HIGH = 7,> 70%,real-time,>25000,API-rsync,partner forti o è uno std usato da altri
